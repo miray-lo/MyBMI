@@ -1,0 +1,14 @@
+C:\Users\羅天助\OneDrive\桌面\視窗\MyBMICalculator\bin\Debug\net10.0-windows\MyBMICalculator.exe
+C:\Users\羅天助\OneDrive\桌面\視窗\MyBMICalculator\bin\Debug\net10.0-windows\MyBMICalculator.deps.json
+C:\Users\羅天助\OneDrive\桌面\視窗\MyBMICalculator\bin\Debug\net10.0-windows\MyBMICalculator.runtimeconfig.json
+C:\Users\羅天助\OneDrive\桌面\視窗\MyBMICalculator\bin\Debug\net10.0-windows\MyBMICalculator.dll
+C:\Users\羅天助\OneDrive\桌面\視窗\MyBMICalculator\bin\Debug\net10.0-windows\MyBMICalculator.pdb
+C:\Users\羅天助\OneDrive\桌面\視窗\MyBMICalculator\obj\Debug\net10.0-windows\MyBMICalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\羅天助\OneDrive\桌面\視窗\MyBMICalculator\obj\Debug\net10.0-windows\MyBMICalculator.AssemblyInfoInputs.cache
+C:\Users\羅天助\OneDrive\桌面\視窗\MyBMICalculator\obj\Debug\net10.0-windows\MyBMICalculator.AssemblyInfo.cs
+C:\Users\羅天助\OneDrive\桌面\視窗\MyBMICalculator\obj\Debug\net10.0-windows\MyBMICalculator.csproj.CoreCompileInputs.cache
+C:\Users\羅天助\OneDrive\桌面\視窗\MyBMICalculator\obj\Debug\net10.0-windows\MyBMICalculator.dll
+C:\Users\羅天助\OneDrive\桌面\視窗\MyBMICalculator\obj\Debug\net10.0-windows\refint\MyBMICalculator.dll
+C:\Users\羅天助\OneDrive\桌面\視窗\MyBMICalculator\obj\Debug\net10.0-windows\MyBMICalculator.pdb
+C:\Users\羅天助\OneDrive\桌面\視窗\MyBMICalculator\obj\Debug\net10.0-windows\MyBMICalculator.genruntimeconfig.cache
+C:\Users\羅天助\OneDrive\桌面\視窗\MyBMICalculator\obj\Debug\net10.0-windows\ref\MyBMICalculator.dll
